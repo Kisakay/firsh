@@ -36,21 +36,6 @@ To compile and run firsh, ensure you have Rust installed on your system. Then, f
    ```
 
 Once the shell is running, you can start entering commands and interacting with the system.
-
-## Supported Commands
-
-Firsh supports a variety of built-in commands, including but not limited to:
-
-- `cd`: Change the current directory.
-- `pwd`: Print the current working directory.
-- `echo`: Display a line of text.
-- `ls`: List directory contents.
-- `cat`: Concatenate and display files.
-- `mkdir`: Create directories.
-- `rm`: Remove files or directories.
-- `mv`: Move or rename files or directories.
-- `cp`: Copy files or directories.
-
 ## Contributing
 
 Contributions to firsh are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
